@@ -1,6 +1,6 @@
 package lesson2.task2;
 
-public interface ActorBehavoir {
+public interface ActorBehavior {
     public void setMakeOrder();
 
     public void setTakeOrder();
